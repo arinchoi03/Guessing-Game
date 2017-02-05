@@ -1,0 +1,31 @@
+      .center {
+        text-align: center;
+      }
+      ul {
+          list-style: none;
+          padding: 0;
+      }
+      img {
+          display: inline;
+          width: 500px;
+          height: 100px;
+      }
+      #footer {
+          width: 100%;
+          border-top: solid 10px red;
+          background-color: white;
+          position: fixed;
+          bottom: 0;
+      }
+      html {
+          box-sizing: 'border-box'
+      }
+      #input-parent {
+        width: 160px;
+        margin: 0 auto;
+      }
+
+      #headers {
+        width: 500px;
+        margin: 0 auto;
+      }
